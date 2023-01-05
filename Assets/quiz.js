@@ -47,7 +47,7 @@ var quizQuestions = [{
     choiceB: "Undefined",
     choiceC: "NaN",
     choiceD: "A wet programmer",
-    correctAnswer: "b"},    
+    correctAnswer: "d"},    
     ];
 
 // Define variables in HTML for manipulation
